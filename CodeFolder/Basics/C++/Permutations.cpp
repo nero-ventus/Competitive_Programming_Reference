@@ -1,4 +1,4 @@
-#define Dt int //Data type int long long int string ...
+#define Dt int //Datatype int,long long,string,etc.
 #define T vector<Dt>;
 
 vector<T> permutations(T v) {
